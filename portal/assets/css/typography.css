@@ -1,0 +1,216 @@
+/* -----------------------------------------
+   Font-face:
+----------------------------------------- */
+
+
+@font-face{ 
+src: url('fonts/questrial/questrial-regular-webfont.eot'); 
+src: 
+url('fonts/questrial/questrial-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/questrial/questrial-regular-webfont.woff') format('woff'), 
+url('fonts/questrial/questrial-regular-webfont.ttf') format('truetype'), 
+url('fonts/questrial/questrial-regular-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Open_Sans_B";
+src: url('fonts/open_sans/OpenSans-Bold-webfont.eot'); 
+src: 
+url('fonts/open_sans/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/open_sans/OpenSans-Bold-webfont.woff') format('woff'), 
+url('fonts/open_sans/OpenSans-Bold-webfont.ttf') format('truetype'), 
+url('fonts/open_sans/OpenSans-Bold-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Open_Sans_R";
+src: url('fonts/open_sans/OpenSans-Regular-webfont.eot'); 
+src: 
+url('fonts/open_sans/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/open_sans/OpenSans-Regular-webfont.woff') format('woff'), 
+url('fonts/open_sans/OpenSans-Regular-webfont.ttf') format('truetype'), 
+url('fonts/open_sans/OpenSans-Regular-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Open_Sans_L";
+src: url('fonts/open_sans/OpenSans-Light-webfont.eot'); 
+src: 
+url('fonts/open_sans/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/open_sans/OpenSans-Light-webfont.woff') format('woff'), 
+url('fonts/open_sans/OpenSans-Light-webfont.ttf') format('truetype'), 
+url('fonts/open_sans/OpenSans-Light-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Carto_Sans_Bold";
+src: url('fonts/carto_sans/cartogothicstd-bold-webfont.eot'); 
+src: 
+url('fonts/carto_sans/cartogothicstd-bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/carto_sans/cartogothicstd-bold-webfont.woff') format('woff'), 
+url('fonts/carto_sans/cartogothicstd-bold-webfont.ttf') format('truetype'), 
+url('fonts/carto_sans/cartogothicstd-bold-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Carto_Sans_Book";
+src: url('fonts/carto_sans/cartogothicstd-book-webfont.eot'); 
+src: 
+url('fonts/carto_sans/cartogothicstd-book-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/carto_sans/cartogothicstd-book-webfont.woff') format('woff'), 
+url('fonts/carto_sans/cartogothicstd-book-webfont.ttf') format('truetype'), 
+url('fonts/carto_sans/cartogothicstd-book-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Arimo_Regular";
+src: url('fonts/arimo/arimo-regular-webfont.eot'); 
+src: 
+url('fonts/arimo/arimo-regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/arimo/arimo-regular-webfont.woff') format('woff'), 
+url('fonts/arimo/arimo-regular-webfont.ttf') format('truetype'), 
+url('fonts/arimo/arimo-regular-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Arimo_Bold";
+src: url('fonts/arimo/arimo-bold-webfont.eot'); 
+src: 
+url('fonts/arimo/arimo-bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/arimo/arimo-bold-webfont.woff') format('woff'), 
+url('fonts/arimo/arimo-bold-webfont.ttf') format('truetype'), 
+url('fonts/arimo/arimo-bold-webfont.svg#webfont') format('svg'); 
+}
+@font-face{ 
+font-family:"Oxygen";
+src: url('fonts/oxygen/oxygen-webfont.eot'); 
+src: 
+url('fonts/oxygen/oxygen-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/oxygen/oxygen-webfont.woff') format('woff'), 
+url('fonts/oxygen/oxygen-webfont.ttf') format('truetype'), 
+url('fonts/oxygen/oxygen-webfont.svg#webfont') format('svg'); 
+}
+
+
+@font-face{ 
+font-family:"Nexa_Light";
+src: url('fonts/nexa_light/nexa_light-webfont.eot'); 
+src: 
+url('fonts/nexa_light/nexa_light-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/nexa_light/nexa_light-webfont.woff') format('woff'), 
+url('fonts/nexa_light/nexa_light-webfont.ttf') format('truetype'), 
+url('fonts/nexa_light/nexa_light-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Nexa_Bold";
+src: url('fonts/nexa_light/nexa_bold-webfont.eot'); 
+src: 
+url('fonts/nexa_bold/nexa_bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/nexa_bold/nexa_bold-webfont.woff') format('woff'), 
+url('fonts/nexa_bold/nexa_bold-webfont.ttf') format('truetype'), 
+url('fonts/nexa_bold/nexa_bold-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"code_pro_bold";
+src: url('fonts/code_pro_bold/code_bold-webfont.eot'); 
+src: 
+url('fonts/code_pro_bold/code_bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/code_pro_bold/code_bold-webfont.woff') format('woff'), 
+url('fonts/code_pro_bold/code_bold-webfont.ttf') format('truetype'), 
+url('fonts/code_pro_bold/code_bold-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"code_pro_light";
+src: url('fonts/code_pro_light/code_light-webfont.eot'); 
+src: 
+url('fonts/code_pro_light/code_light-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/code_pro_light/code_light-webfont.woff') format('woff'), 
+url('fonts/code_pro_light/code_light-webfont.ttf') format('truetype'), 
+url('fonts/code_pro_light/code_light-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"bariol_regular";
+src: url('fonts/bariol_regular/bariol_regular-webfont.eot'); 
+src: 
+url('fonts/bariol_regular/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/bariol_regular/bariol_regular-webfont.woff') format('woff'), 
+url('fonts/bariol_regular/bariol_regular-webfont.ttf') format('truetype'), 
+url('fonts/bariol_regular/bariol_regular-webfont.svg#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Droid_Sans_Regular";
+src: url('fonts/droid_sans_regular/droidsans-webfont.eot'); 
+src: 
+url('fonts/droid_sans_regular/droidsans-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/droid_sans_regular/droidsans-webfont.woff') format('woff'), 
+url('fonts/droid_sans_regular/droidsans-webfont.ttf') format('truetype'), 
+url('fonts/droid_sans_regular/droidsans-webfont.html#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Droid_Sans_Bold";
+src: url('fonts/droid_sans_bold/droidsans-bold-webfont.eot'); 
+src: 
+url('fonts/droid_sans_bold/droidsans-bold-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/droid_sans_bold/droidsans-bold-webfont.woff') format('woff'), 
+url('fonts/droid_sans_bold/droidsans-bold-webfont.ttf') format('truetype'), 
+url('fonts/droid_sans_bold/droidsans-bold-webfont.html#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Source_Sans";
+src: url('fonts/source_sans_pro/liberationsans-regular-webfont.eot'); 
+src: 
+url('fonts/source_sans_pro/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'), 
+url('fonts/source_sans_pro/SourceSansPro-Regular.woff') format('woff'), 
+url('fonts/source_sans_pro/SourceSansPro-Regular.ttf') format('truetype'), 
+url('fonts/source_sans_pro/SourceSansPro-Regular.html#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"Novecento_Wide";
+src: url('fonts/novecento_wide_medium/synthview_-_novecentowide-medium-webfont.eot'); 
+src: 
+url('fonts/novecento_wide_medium/synthview_-_novecentowide-medium-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/novecento_wide_medium/synthview_-_novecentowide-medium-webfont.woff') format('woff'), 
+url('fonts/novecento_wide_medium/synthview_-_novecentowide-medium-webfont.ttf') format('truetype'), 
+url('fonts/novecento_wide_medium/synthview_-_novecentowide-medium-webfont.svg#webfont') format('svg'); 
+}
+
+
+@font-face{ 
+font-family:"avant_grade_medium";
+src: url('fonts/avant_grade_medium/avant_grade_font-webfont.eot'); 
+src: 
+url('fonts/avant_grade_medium/avant_grade_font-webfont.eot?#iefix') format('embedded-opentype'), 
+url('fonts/avant_grade_medium/avant_grade_font-webfont.woff') format('woff'), 
+url('fonts/avant_grade_medium/avant_grade_font-webfont.ttf') format('truetype'), 
+url('fonts/avant_grade_medium/avant_grade_font-webfont.html#webfont') format('svg'); 
+}
+
+@font-face{ 
+font-family:"sosa";
+src: url('fonts/sosa/sosa.eot'); 
+src: 
+url('fonts/sosa/sosa.eot?#iefix') format('embedded-opentype'), 
+url('fonts/sosa/sosa.woff') format('woff'), 
+url('fonts/sosa/sosa.ttf') format('truetype'), 
+url('fonts/sosa/sosa.svg#webfont') format('svg'); 
+}
+
+.sosa-icon{
+font-family:"sosa";
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'WebSymbolsRegular';
+    src: url('fonts/websymbols/websymbols-regular-webfont.eot');
+    src: url('fonts/websymbols/websymbols-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/websymbols/websymbols-regular-webfont.woff') format('woff'),
+         url('fonts/websymbols/websymbols-regular-webfont.ttf') format('truetype'),
+         url('fonts/websymbols/websymbols-regular-webfont.html#WebSymbolsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
